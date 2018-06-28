@@ -1,5 +1,5 @@
 # bitradio
-Bitradio Wallet Ubuntu 18.04
+Bitradio Wallet Ubuntu 18.04x64
 
 For Bitradiod
 
