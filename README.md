@@ -10,7 +10,7 @@ protobuf-compiler libboost-all-dev autotools-dev automake libcurl4-openssl-dev \
 libboost-all-dev libssl-dev make autoconf libtool git apt-utils g++ \
 libprotobuf-dev pkg-config libcurl3-dev libudev-dev libqrencode-dev bsdmainutils \
 pkg-config libssl-dev libgmp3-dev libevent-dev jp2a pv virtualenv libdb4.8-dev libdb4.8++-dev \
-libssl1.0-dev libminiupnpc-dev
+libssl1.0-dev libminiupnpc-dev unzip
 
 For Bitradio-qt
 
